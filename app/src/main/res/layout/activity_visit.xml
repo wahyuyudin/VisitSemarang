@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFF"
+    tools:context="com.example.android.visitsemarang.visit">
+
+    <RelativeLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/smg"
+        android:id="@+id/logo_imageView"
+        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo_imageView">
+
+
+
+        <Button
+            android:id="@+id/kuliner_button"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="     "
+            android:background="#FFFF"
+            android:layout_marginBottom="16dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/wisata_button"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="    "
+            android:background="#FFFF"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/kesenian_button"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="    "
+            android:background="#FFFF"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/logo_imageView"
+        android:id="@+id/linear_layout_satu">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/culinary_icon"
+            android:layout_weight="1"
+
+            />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/wisata_icon"
+            android:id="@+id/wisata_image_view"
+            android:layout_weight="1"
+            />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/kesenian_icon"
+            android:id="@+id/kesenian_image_view"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_Layout_dua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/linear_layout_satu"
+        android:layout_marginTop="13dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kuliner"
+            android:layout_weight="1"
+            android:textColor="#000"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wisata"
+            android:layout_weight="1"
+            android:textColor="#000"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kesenian"
+            android:layout_weight="1"
+            android:textColor="#000"
+            android:textAlignment="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear_Layout_tiga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_below="@id/linear_Layout_dua">
+
+        <Button
+            android:id="@+id/Komunitas_button"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="     "
+            android:background="#FFFF"
+            android:layout_marginBottom="16dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/Gedung_Pemerintahan_button"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:text="    "
+            android:background="#FFFF"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_below="@id/linear_Layout_dua"
+            >
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/komunitas_icon"
+                android:layout_weight="1"
+                />
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/gov_icon"
+                android:id="@+id/gov_image_view"
+                android:layout_weight="1"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/linear_Layout_tiga"
+           >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Komunitas"
+            android:layout_weight="1"
+            android:textColor="#000"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gedung \n Pemerintahan"
+            android:layout_weight="1"
+            android:textColor="#000"
+            android:textAlignment="center"
+            />
+
+        </LinearLayout>
+
+        </RelativeLayout>
+</ScrollView>

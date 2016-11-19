@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">Visit Semarang</string>
+
+    <!-- Strings for labels on app screen. -->
+    <string name="title_activity_visit">visit</string>
+    <string name="title_activity_about">about</string>
+
+    <!-- An array of strings for superhero facts. -->
+    <string-array name="kesenian_details_array">
+        <item>Tari Semarangan merupakan tari khas dari Semarang yang biasannya ditarikan oleh
+            dua orang putri berpasangan. \n\nAdapun tarian ini memiliki tiga ragam gerak baku, yaitu
+            ngondhek, ngeyek, dan genjot yang ketiganya merupakan gerakan yang berpusat pada pinggul.
+           \n\nGerakan tangan ( lambeyan ) yang menyertai ketiga ragam gerak itu merupakan gerakan yang
+            berpangkal pada pergelangan tangan dengan media gerak sebatas pusar hingga pandangan mata.
+            </item>
+        <item>Tari Topeng Gecul mempunyai banyak versi tergantung daerahnya.
+            Tari ini menceritakan  tentang  Panji Asmara Bangun yang kehilangan Dewi Sekartaji.
+            Panji Asmara Bangun yang menyamar sebagai orang desa mengamen dengan memakai
+            topeng supaya wajahnya tidak terlihat.
+            \n\n Sementara Dewi Sekartaji juga menyamarmenyamar sebagai pengamen wanita sambil menari.
+            Kisah ini diakhiri dengan pertemuan
+            Panji Asmara Bagun dan Dewi Sekartaji.</item>
+        <item>Kesenian Gambang Semarang merupakan hasil pembauran antara dua etnis, yaitu budaya Cina dan Jawa.
+            Gambang Semarang telah memiliki nilai historis di kota Semarang, karena itu lazim pula
+            apabila diangkat dan dilestarikan sebagai suatu karya seni tradisi kota Semarang yang
+            mengandung nilai estetika serta nilai–nilai simbolik tradisional yang diharapkan dapat
+            memenuhi kebutuhan seni masyarakat Semarang pada khususnya yaitu dengan pertimbangan
+            dapat mewujudkan sebuah karya seni yang dapat diterima sebagai sosok budaya kota pesisir
+            Jawa Tengah.\n\nPada mulanya Gambang Semarang memang memiliki ciri musikal yang sama
+            dengan Gambang Kromong, tetapi
+            dalam perkembangan ciri – ciri itu semakin memudar dengan ditampilkannya lagu-lagu khusus
+            Gambang Semarang, lagu – lagu daerah Jawa Tengah, lagu-lagu keroncong, dan lagu-lagu pop Jawa.
+            Kalau pada awal perkembangan dalam Gambang Semarang terdapat nuansa Betawi dan Cina, serta
+            nuansa Jawa- Mandarin, dalam perwujudan yang sekarang Gambang Semarang lebih menampakkan
+            nuansa ke-Jawa-annya.</item>
+        <item>Wayang kulit adalah seni tradisional Indonesia yang terutama berkembang di Jawa.
+            Wayang berasal dari kata \'Ma Hyang\' yang artinya menuju kepada roh spiritual, dewa,
+            atau Tuhan Yang Maha Esa. Ada juga yang mengartikan wayang adalah istilah bahasa
+            Jawa yang bermakna \'bayangan\', hal ini disebabkan karena penonton juga bisa menonton
+            wayang dari belakang kelir atau hanya bayangannya saja. \n\nWayang kulit dimainkan oleh
+            seorang dalang yang juga menjadi narator dialog tokoh-tokoh wayang, dengan diiringi
+            musik gamelan yang dimainkan sekelompok nayaga dan tembang yang dinyanyikan oleh
+            para pesinden.</item>
+        <item>Wayang Orang Ngesti Pandowo merupakan salah satu ikon budaya Kota Semarang.
+            Dulu, ada unen-unen belum ke Semarang kalau belum melihat pementasan Ngesti.
+            \n\nKelompok kesenian wayang orang yang didirikan pada 1 Juli 1937 oleh lima tokoh
+            yaitu Sastro Sabdo, Darso Sabdo, Narto Sabdo, Sastrosoedirjo serta Kusni ini
+            mengalami masa kejayaan mulai pertengahan 1950-an hingga dekade 1980-an,
+            terutama ketika masih menempati Gedung GRIS di Jl Pemuda. Sebuah tempat yang
+            kini menjadi Mal Paragon Semarang.
+
+            \n\nSesudah digusur dari GRIS pada 1996, kelompok ini kian surut.
+            Kini, Ngesti Pandowo masih menggelar pementasan rutin di Gedung Ki Narto Sabdho,
+            kompleks Taman Budaya Raden Saleh, Semarang, tiap Sabtu malam.
+            Walaupun dengan penonton yang bisa dibilang jari tangan.</item>
+    </string-array>
+
+    <string-array name="wisata_details_array">
+
+        <item>
+            Tugu Muda berbentuk seperti lilin yang mengandung makna semangat juang para pejuang
+            untuk mempertahankan kemerdekaan RI tidak akan pernah padam. Bentuk Tugu muda merupakan
+            tugu yang berpenampang segi lima. Terdiri dari 3 (tiga) bagian yaitu landasan, badan dan
+            kepala. Pasa sisi landasan tugu terdapat relief. Keseluruhan tugu dibuat dari batu.
+            Untuk memperkuat kesan tugunya, dibuat kolam hias dan taman pada sekeliling tugu.
+
+            \n\nUntuk mempercantik Tugu Muda, dibangunlah sebuah taman yang mengelilingi Tugu Muda.
+            Di taman ini diberi beberapa ornamen supaya tugu muda dapat dijadikann sebagai taman kota,
+            antara lain ada air mancur, lampu-lampu warna putih dan kuning yang akan menambah kesan
+            anggun di malam hari.
+
+            \n\nPada taman terdapat pohon cemara, duplikasi senjata bambu runcing
+            yang tegak berdiri berjajar sebanyak 5 (lima) buah yang menggambarkan Pertempuran lima hari
+            di Semarang dengan bersenjatakan bambu runcing.
+
+            \n\nPada bagian kaki tugu terdapat relief dengan lima buah sangga pilar,yang kecuali
+            dipergunakan untuk menggambarkan berbagai macam relief,juga dimaksudkan sebagai lambang
+            Pancasila. Pada tiap-tiap sangga terdapat hiasan-hiasan yang berbeda satu dengan yang lain
+
+        </item>
+
+        <item>
+            Masjid Agung Jawa Tengah merupakan salah satu masjid termegah di Indonesia. Masjid dengan arsitektur
+            indah ini mulai dibangun pada tahun 2001 dan selesai pada tahun 2006. Kompleks masjid terdiri
+            dari bangunan utama seluas 7.669 m2 dan halaman seluas 7.500 m2.  Masjid Agung Jawa Tengah
+            terletak di jalan Gajah Raya, tepatnya di Desa Sambirejo, Kecamatan Gayamsari, Kota Semarang.\n\n
+
+            Masjid yang mampu menampung jamaah tak kurang dari 15.000 ini diresmikan oleh Presiden
+            Republik Indonesia,Susilo Bambang Yudhoyono, pada tahun 2006. Upacara peresmian ditandai
+            dengan penandatanganan batu prasasti setinggi 3,2 m dan berat 7,8 ton yang terletak di depan masjid.
+            Prasasti terbuat dari batu alam yang berasal dari lereng Gunung Merapi.
+        </item>
+
+        <item>
+        Vihara Buddhagaya Watugong adalah sebuah Vihara yang diresmikan pada 2006 lalu dan dinyatakan
+        MURI sebagai pagoda tertinggi di Indonesia. Vihara Buddhagaya Watugong terletak 45 menit dari
+        pusat Kota Semarang. Vihara ini memiliki banyak bangunan dan berada di area yang luas.
+
+        n\n\Salah satu ikon yang paling terkenal di vihara ini adalah Pagoda Avalokitesvara (Metta Karuna),
+        dimana didalamnya terdapat Buddha Rupang yang besar. Pagoda Avalokitesvara yang memiliki tinggi
+        bangunan setinggi 45 meter dengan 7 tingkat, yang bermakna bahwa seorang pertapa akan mencapai
+        kesucian dalam tingkat ketujuh.
+
+        \n\nBagian dalam pagoda berbentuk segi delapan dengan ukuran 15 x 15 meter. Mulai tingkat kedua
+        hingga keenam dipasang patung Dewi Kwan Im (Dewi Welas Asih) yang menghadap empat penjuru angin.
+        Hal ini bertujuan agar sang dewi memancarkan kasih sayangnya ke segala arah mata angin.
+
+        \n\nPada tingkat ketujuh terdapat patung Amitaba, yakni guru besar para dewa dan manusia.
+        Dibagian puncak pagoda terdapat Stupa untuk menyimpan relik (butir-butir mutiara) yang
+        keluar dari Sang Buddha. Bagian depan pagoda juga terdapat patung Dewi Welas Asih serta
+        Sang Buddha yang duduk dibawah pohon Bodi.
+        </item>
+
+         <item>
+             Hampir di keseluruhan bangunan bernuansa merah khas bangunan China. Sekarang tempat tersebut dijadikan
+             tempat peringatan dan tempat pemujaan atau bersembahyang serta tempat untuk berziarah.
+             Untuk keperluan tersebut, di dalam gua batu itu diletakan sebuah altar, serta patung-patung
+             Sam Po Tay Djien.
+
+             \n\nPadahal laksamana Cheng Ho adalah seorang muslim, tetapi oleh mereka di anggap dewa.
+             Hal ini dapat dimaklumi mengingat agama Kong Hu Cu atau Tau menganggap orang yang sudah
+             meninggal dapat memberikan pertolongan kepada mereka.
+
+        </item>
+
+         <item>
+
+Simpang Lima Semarang adalah sebuah lapangan yang berada di pusat kota Semarang. Lapangan ini disebut
+             juga Lapangan Pancasila[1]. Simpang lima merupakan pertemuan dari lima jalan yang menyatu,
+             yaitu Jl. Pahlawan, Jl. Pandanaran, Jl. Ahmad Yani, Jl. Gajah Mada dan Jl A Dahlan.
+             Di sekitarnya berdiri hotel-hotel berbintang dan pusat perbelanjaan. Di antaranya Hotel
+             Ciputra, Hotel Horison, Hotel Graha Santika, Mall Ciputra, E Plaza, Plaza Simpang Lima,
+             Living Plaza, @Hom Hotel, Holiday Inn Expres, Warhol Apartemen dan Condotel (sedang konstruksi).
+             Lapangan ini merupakan pusat keramaian warga Semarang setiap hari Sabtu-Minggu. Terutama pada
+             hari minggu pagi tempat ini hanya diperuntukkan bagi pejalan kaki dan bersepeda.
+
+             \n\nSimpang Lima dijadikan sebagai pusat Alun-alun Semarang berdasarkan atas usulan Presiden RI pertama
+             kali yaitu Ir. Soekarno dengan alasan Pusat alun-alun yang semula berada di Kawasan Kauman
+             telah beralih fungsi menjadi Pusat Perbelanjaan. Rencana pembangunan Lapangan Pancasila
+             waktu itu dipilih di ujung jalan Oei Tiong Ham (Jl Pahlawan). Lapangan Pancasila kemudian
+             dapat terbangun pada tahun 1969.
+        </item>
+
+        <item>
+
+            Lawang Sewu adalah gedung gedung bersejarah di Indonesia yang berlokasi di Kota Semarang,
+            Jawa Tengah. Gedung ini, dahulu yang merupakan kantor dari Nederlands-Indische Spoorweg
+            Maatschappij atau NIS. Dibangun pada tahun 1904 dan selesai pada tahun 1907. Terletak di
+            bundaran Tugu Muda yang dahulu disebut Wilhelminaplein.
+
+            \n\nMasyarakat setempat menyebutnya Lawang Sewu karena bangunan tersebut memiliki pintu yang sangat banyak,
+            meskipun kenyataannya, jumlah pintunya tidak mencapai seribu. Bangunan ini memiliki banyak jendela yang
+            tinggi dan lebar, sehingga masyarakat sering menganggapnya sebagai pintu (lawang).
+
+            \n\nBangunan kuno dan megah berlantai dua ini setelah kemerdekaan dipakai sebagai kantor Djawatan
+            Kereta Api Repoeblik Indonesia (DKARI) atau sekarang PT Kereta Api Indonesia. Selain itu pernah
+            dipakai sebagai Kantor Badan Prasarana Komando Daerah Militer (Kodam IV/Diponegoro) dan Kantor
+            Wilayah (Kanwil) Kementerian Perhubungan Jawa Tengah.
+
+            \n\nPada masa perjuangan gedung ini memiliki
+            catatan sejarah tersendiri yaitu ketika berlangsung peristiwa Pertempuran lima hari di Semarang
+            \(14 Oktober - 19 Oktober 1945\). Gedung tua ini menjadi lokasi pertempuran yang hebat antara pemuda
+            AMKA atau Angkatan Muda Kereta Api melawan Kempetai dan Kidobutai, Jepang. Maka dari itu Pemerintah
+            Kota Semarang dengan Surat Keputusan Wali Kota Nomor. 650/50/1992, memasukan Lawang Sewu sebagai
+            salah satu dari 102 bangunan kuno atau bersejarah di Kota Semarang yang patut dilindungi.
+        </item>
+
+    </string-array>
+
+    <string-array name="kuliner_details_array">
+
+        <item>
+Tahu gimbal sesuai dengan namanya memiliki bahan utama tahu goreng dan gimbal, dilengkapi dengan
+            rajangan kol mentah, lontong, tauge, dan telur goreng. Kenikmatannya menjadi sempurna
+            dengan disiram sambal kacang. Sedang gimbal sendiri, bagi yang belum tahu, adalah semacam
+            bakwan goreng yang berisi udang. Gimbal inilah yang membuat tahu gimbal menjadi khas.
+
+            \n\nUntuk mendapatkan tahu gimbal di Semarang sangat lah mudah, karena makanan ini memang
+            banyak ditawarkan di berbagai tempat, baik di kaki lima, maupun di rumah makan. Untuk
+            yang di kaki lima, Anda bisa mengunjungi pusat pedagang tahu gimbal yaitu di Taman KB
+            (Keluarga Berencana) atau juga sering disebut Taman Semarang, yang terletak di Jalan
+            Menteri Supeno tidak jauh dari Simpang Lima.
+        </item>
+<item>  Tahu petis adalah jajanan khas kota Semarang berupa tahu goreng yang dimakan dengan petis
+        \(saus berwarna hitam kental yang biasanya terbuat dari udang\) yang dioleskan atau disisipkan di
+        tengah-tengah tahu.
+
+        \n\nSeperti tahu pong tapi rasanya tidak asin, yaitu berasal dari tahu putih
+        yang digoreng sampai kecokelatan tanpa dibumbui atau dibumbui dengan larutan garam dan bawang
+        putih saja.Sedangkan petisnya berasa manis agak sedikit asin. Agar menggugah selera
+        tahu petis biasanya dimakan dengan cabai rawit.
+        </item>
+
+         <item>
+        Soto Semarang yang terkenal akan kesegarannya ini juga kaya akan sayuran.
+        Beberapa Soto Semarang bahkan menggunakan tomat untuk menambah kesegarannya.
+
+        \n\nDengan irisan tomat buah dan daun bawang di atasnya, membuat soto khas Semarang tampak segar.
+        Ditambah dengan suwiran daging ayam yang cukup besar dan taburan bawang goreng, sedapnya langsung
+        terasa
+
+        Selain sotonya, makanan pelengkap soto khas Semarang juga sangat beragam.
+        Mulai dari tempe goreng, perkedel kentang, sate kerang, sate ayam, sate telur puyuh,
+        dan lainnya. Tentu tak lengkap rasanya jika makan soto tanpa menyantap makanan pendampingnya.
+         </item>
+          <item>
+            Lumpia semarang (atau loenpia semarang) adalah makanan semacam rollade yang berisi rebung,
+              telur, dan daging ayam atau udang.
+              \n\nCita rasa lumpia semarang adalah perpaduan rasa antara Tionghoa dan Indonesia karena pertama
+             kali dibuat oleh seorang keturunan Tionghoa yang menikah dengan orang Indonesia
+             dan menetap di Semarang, Jawa Tengah.Makanan ini mulai dijajakan
+             dan dikenal di Semarang ketika pesta olahraga GANEFO diselenggarakan pada masa
+             pemerintahan Presiden Soekarno.
+        </item>
+
+        <item>
+            Bandeng presto merupakan makanan khas Indonesia yang asalnya dari Semarang Jawa Tengah.
+            Cukup mudah membuatnya, bumbunya pun tidak sesulit masakan yang lain cukup
+            dengan bawang putih, kunyit dan garam serta pengolahan yang tepat jadilah bandeng
+            presto yang fenomenal.
+            \n\nPenemu jenis makanan ini adalah Hanna Budimulya asal Pati
+            yang kemudian menjadi besar dan sekaligus menjadi ikon kota Semarang yang tak pernah
+            dilupakan.
+            \n\nSejak di temukannya pada sekitar tahun 1977, bandeng presto yang awalnya dibuat
+            untuk dikonsumsi segelintir orang kini menjadi jajanan atau oleh-oleh khas dari Semarang.
+
+        </item>
+
+    </string-array>
+
+    <string-array name="komunitas_details_array">
+
+        <item>
+            satu bjabnvjavjavnvlvnlkenvknwenv
+        </item>
+
+        <item>
+            dua anvoienvoineoiwncieowncoencneonckewnci
+        </item>
+
+        <item>
+            tiga asocneonfoieqlmflkanmcioejnoenmvkvekocmnoke
+        </item>
+
+        <item>
+            empat kzcniekenknazeewiufnkcnmsn cksnsjniosois
+        </item>
+
+        <item>
+            lima sdnsdnvsenvioenfvkelmvklsmvkldsvmksfviemnjiofjseo
+        </item>
+
+    </string-array>
+
+</resources>
