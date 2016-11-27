@@ -11,6 +11,9 @@ public class visit extends AppCompatActivity {
     private static Button button_kuliner_sbm;
     private static Button button_wisata_sbm;
     private static Button button_kesenian_sbm;
+    private static Button button_komunitas_sbm;
+    private static Button button_gov_sbm;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,8 +29,8 @@ public class visit extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Intent visit_intent = new Intent("com.example.android.visitsemarang.kuliner");
-                        startActivity(visit_intent);
+                        Intent kuliner_intent = new Intent("com.example.android.visitsemarang.kuliner");
+                        startActivity(kuliner_intent);
                     }
 
                 }
@@ -54,6 +57,30 @@ public class visit extends AppCompatActivity {
                         startActivity(kesenian_intent);
                     }
 
+                }
+        );
+
+        button_komunitas_sbm = (Button) findViewById(R.id.Komunitas_button);
+        button_komunitas_sbm.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Intent komunitas_intent = new Intent("com.example.android.visitsemarang.komunitas");
+                        startActivity(komunitas_intent);
+                    }
+
+                }
+        );
+
+        button_gov_sbm = (Button) findViewById(R.id.gov_button);
+        button_gov_sbm.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Intent gov_intent = new Intent("com.example.android.visitsemarang.gov");
+                        startActivity(gov_intent);
+
+                    }
                 }
         );
     }

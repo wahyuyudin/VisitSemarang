@@ -60,10 +60,20 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".komunitas"
+        <activity
+            android:name=".komunitas"
             android:label="komunitas">
             <intent-filter>
                 <action android:name="com.example.android.visitsemarang.komunitas" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".gov"
+            android:label="Gedung Pemerintahan">
+            <intent-filter>
+                <action android:name="com.example.android.visitsemarang.gov" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>

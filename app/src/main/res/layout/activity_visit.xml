@@ -140,7 +140,7 @@
             android:layout_weight="1" />
 
         <Button
-            android:id="@+id/Gedung_Pemerintahan_button"
+            android:id="@+id/gov_button"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:text="    "

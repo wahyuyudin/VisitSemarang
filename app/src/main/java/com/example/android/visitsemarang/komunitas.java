@@ -39,15 +39,15 @@ public class komunitas extends AppCompatActivity {
 
         // Display an image based on the selected traditional art
         switch (komunitasId) {
-            case 0: komunitasImageView.setImageResource(R.drawable.tari_semarangan);
+            case 0: komunitasImageView.setImageResource(R.drawable.lopen);
                 break;
-            case 1: komunitasImageView.setImageResource(R.drawable.tari_topeng_gecul);
+            case 1: komunitasImageView.setImageResource(R.drawable.ngisoringin);
                 break;
-            case 2: komunitasImageView.setImageResource(R.drawable.gambang_semarang);
+            case 2: komunitasImageView.setImageResource(R.drawable.oase);
                 break;
-            case 3: komunitasImageView.setImageResource(R.drawable.wayang_kulit);
+            case 3: komunitasImageView.setImageResource(R.drawable.orat_oret);
                 break;
-            case 4: komunitasImageView.setImageResource(R.drawable.wayang_orang);
+            case 4: komunitasImageView.setImageResource(R.drawable.mangrov);
                 break;
         }
     }
