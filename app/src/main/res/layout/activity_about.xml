@@ -92,7 +92,7 @@
         android:id="@+id/asj_image_view"
         android:layout_width="83dp"
         android:layout_height="52dp"
-        android:src="@drawable/asj"
+        android:src="@drawable/iak"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/linearLayout"
         >

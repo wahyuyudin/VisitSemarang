@@ -3,7 +3,7 @@
 <English>
 
 This app displays information about Semarang.
-There will be 3 categories, they are Kuliner (Culinary),
+There will be 5 categories, they are Kuliner (Culinary),
 Wisata (Tourist Atrraction), Kesenian (Traditional Art), Komuntas (Community) and Gedung Pemerintahan (Government Building).
 Each categories contain of 5 images and informations that can be read by the user.
 
@@ -21,7 +21,7 @@ and Java build 1.8.0_73-b02 amd64
 <Indonesia>
 
 Aplikasi ini akan menampilkan informasi tentang Semarang.
-Akan ada 3 kategori, yaitu Kuliner, Wisata, Kesenian, Komunitas dan Gedung Pemerintahan.
+Akan ada 5 kategori, yaitu Kuliner, Wisata, Kesenian, Komunitas dan Gedung Pemerintahan.
 MAsing-masing Kategori memiliki 5 gambar dan informasi yang bisa dibaca oleh pengguna.
 
 Aplikasi ini akan menampilkan secara acak tentang informasi yang ada di
